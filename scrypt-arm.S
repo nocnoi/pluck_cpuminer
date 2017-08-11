@@ -7,6 +7,8 @@
  * any later version.  See COPYING for more details.
  */
 
+# test for rajan
+
 #include "cpuminer-config.h"
 
 #if defined(USE_ASM) && defined(__arm__) && defined(__APCS_32__)
