@@ -11,6 +11,8 @@ specified when the defaults don't fit, and packages must be ammended to work
 on new hosts. For now, a build architecture of x86_64 is assumed, either on
 Linux or OSX.
 
+SOME RANDOM BULLSHIT
+
 - No reliance on timestamps
 
 File presence is used to determine what needs to be built. This makes the
